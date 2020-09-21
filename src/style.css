@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+.HeadStyle
+{
+  background-color: palevioletred;
+  padding: 5px;
+}
+
+.result{
+  background-color: magenta;
+}
